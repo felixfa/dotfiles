@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = 
-	name = felix faehnrich felix@faehnrich.de
+	email = felix@faehnrich.de
+	name = felix faehnrich
